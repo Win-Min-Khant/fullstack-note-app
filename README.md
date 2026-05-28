@@ -31,7 +31,7 @@ A full-stack note management application built using the MERN stack with TypeScr
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fullstack-note-app.git
+git clone https://github.com/WI/fullstack-note-app.git](https://github.com/Win-Min-Khant/fullstack-note-app.git
 ```
 
 Install dependencies:
